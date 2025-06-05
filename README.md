@@ -1,2 +1,2 @@
-# finndemy userguide
+# finndemy
 finndemy userguide
